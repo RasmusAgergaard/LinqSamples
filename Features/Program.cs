@@ -21,7 +21,14 @@ namespace Features
                 new Employee{Id = 3, Name = "Alex"}
             };
 
+            foreach (var employee in developers.Where(e => e.Name.Length == 5)
+                                               .OrderBy(e => e.Name))
+            {
+                Console.WriteLine(employee.Name);
+            }
 
+            Console.ReadLine();
         }
+
     }
 }

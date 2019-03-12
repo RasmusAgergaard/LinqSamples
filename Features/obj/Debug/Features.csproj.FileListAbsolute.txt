@@ -1,0 +1,7 @@
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Features\bin\Debug\Features.exe.config
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Features\bin\Debug\Features.exe
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Features\bin\Debug\Features.pdb
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Features\obj\Debug\Features.csprojAssemblyReference.cache
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Features\obj\Debug\Features.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Features\obj\Debug\Features.exe
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Features\obj\Debug\Features.pdb
