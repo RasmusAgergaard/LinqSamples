@@ -1,0 +1,7 @@
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Queries\bin\Debug\Queries.exe.config
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Queries\bin\Debug\Queries.exe
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Queries\bin\Debug\Queries.pdb
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Queries\obj\Debug\Queries.exe
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Queries\obj\Debug\Queries.pdb
