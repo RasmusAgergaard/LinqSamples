@@ -1,0 +1,8 @@
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\fuel.csv
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\Cars.exe.config
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\Cars.exe
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\Cars.pdb
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.exe
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.pdb
