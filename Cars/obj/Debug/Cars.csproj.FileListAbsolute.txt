@@ -6,3 +6,4 @@ C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.c
 C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
 C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.exe
 C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.pdb
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\manufacturers.csv
