@@ -17,6 +17,7 @@ namespace Cars
 
             InsertData();
             QueryData();
+
         }
 
         private static void QueryData()
