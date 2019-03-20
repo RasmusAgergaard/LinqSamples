@@ -7,3 +7,8 @@ C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.c
 C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.exe
 C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.pdb
 C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\manufacturers.csv
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\EntityFramework.dll
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\EntityFramework.xml
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rasmus\Desktop\Main drive\Programming\LinqSamples\Cars\obj\Debug\Cars.csproj.CopyComplete
